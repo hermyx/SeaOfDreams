@@ -1,0 +1,37 @@
+"Options" des héros :
+    - Move
+	- Linear Speed
+	- Angular Speed
+	- Intertia ?
+    - Explore
+	- Exploration beam
+	    - Create light in dark environments
+	    - Reveal secret walls
+    - Attack
+	- Strength
+	- Range ?
+    - Other
+	- Defense
+	- Perception
+	- Light's aura
+
+
+Trois héros :
+    - K.R. Micheals : Strength
+    - Noami ??? : Wisdom
+    - ??? : Courage
+
+Micheal
+
+
+SIHOF :
+Société Internationale Habilitée aux Operations Fantasques
+
+Mondes :
+	- Rose bonbon
+	- In the dark
+	- Black and White
+	- The fall
+	- Run from Zombis
+	- Hungry (y aurait de la bouffe quoi)
+	- Super Pouvoir
